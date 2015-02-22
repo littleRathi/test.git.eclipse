@@ -1,0 +1,13 @@
+- eclipse: create project in eclipse
+- github: create repository on githupt example "test.git.eclipse"
+- eclipse: right click on project -> Team -> share project, select local repository
+- eclipse. right click on project -> Team -> Commit...
+	commit data...
+- eclipse: open "Git Repositories" View, select repository (repo), right click "Push"
+	select remote repo
+- eclipse: right click on repo in "Git Repositories" view and chosse "select from Upstream"
+- eclipse: right click on repo in "Git Repositories" and select "Push to Upstream"
+
+after that, the project should be in remote repo
+
+	
